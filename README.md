@@ -49,21 +49,21 @@ I am an Electrical Engineering undergraduate from University of Moratuwa, passio
 
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.linkedin.com/in/thiruvarankanm07" target="_blank" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/thiruvarankanm07" target="_blank" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/thiruvarankanm07" target="_blank" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.fiverr.com/thiruvarankanm07" target="_blank" style="display: inline-block; position: relative; top: 16px;">
+    <img src="https://img.icons8.com/color/48/fiverr.png" alt="Fiverr" height="40" width="40" />
+  </a>
 
-<h2>Connect with Me</h2>
-<p>
-<a href="https://www.linkedin.com/in/thiruvarankanm07" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;"/>
-</a>
-<a href="https://www.instagram.com/thiruvarankanm07" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 10px;"/>
-</a>
-<a href="https://www.facebook.com/thiruvarankanm07" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="margin-right: 10px;"/>
-</a>
-<a href="mailto:thiruvarankanm07@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-mail.svg" alt="Email" height="30" width="40" style="margin-right: 10px;"/>
-</a>
 </p>
 
 ---
