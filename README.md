@@ -46,24 +46,22 @@ I am an Electrical Engineering undergraduate from University of Moratuwa, passio
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" alt="Premiere Pro" />  
 </p>
 
-
-
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/thiruvarankanm07" target="_blank" style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/thiruvarankanm" target="_blank" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/thiruvarankanm07" target="_blank" style="display: inline-block;">
+  <a href="https://www.instagram.com/nm_thiru07?igsh=dTl4OWh0eHV0b2Z4&utm_source=qr" target="_blank" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/thiruvarankanm07" target="_blank" style="display: inline-block;">
+  <a href="https://www.facebook.com/share/1aQcfVLqEC/?mibextid=wwXIfr" target="_blank" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.fiverr.com/thiruvarankanm07" target="_blank" style="display: inline-block; position: relative; top: 16px;">
+  <a href="https://www.fiverr.com/thiru_07/edit-your-videoes-professionally-in-filmora" target="_blank" style="display: inline-block; position: relative; top: 16px;">
     <img src="https://img.icons8.com/color/48/fiverr.png" alt="Fiverr" height="40" width="40" />
   </a>
-
 </p>
 
 ---
@@ -71,15 +69,7 @@ I am an Electrical Engineering undergraduate from University of Moratuwa, passio
 <h2>Fun Fact</h2>
 
 <p>
-⚡ I have completed over 100 orders as a Level 2 Fiverr freelancer with 80+ five-star reviews, specializing in video editing, flyer design, and YouTube content creation.
+⚡ I’m a chess player and a creative side hustler — working as a graphic designer, YouTube content creator, and flyer designer. Also proud to be a Level 2 Fiverr seller with 100+ orders and 80+ five-star reviews.
 </p>
 
 ---
-
-<h2>Contact Details</h2>
-
-<p>
-✉️ thiruvarankanm07@gmail.com <br />
-📍 Jaffna, Sri Lanka <br />
-🌐 <a href="https://thiruvarankanm07.github.io/" target="_blank">Portfolio</a>
-</p>
