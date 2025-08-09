@@ -96,7 +96,6 @@ I am an Electrical Engineering undergraduate from University of Moratuwa, passio
 <h2>Contact Details</h2>
 
 <p>
-📞 +94 761 850 021 <br />
 ✉️ thiruvarankanm07@gmail.com <br />
 📍 Jaffna, Sri Lanka <br />
 🌐 <a href="https://thiruvarankanm07.github.io/" target="_blank">Portfolio</a>
