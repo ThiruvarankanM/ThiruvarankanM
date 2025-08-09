@@ -84,9 +84,9 @@
 <td align="center" width="33%">
 
 ### 🚀 Advanced AI Tools
-<img height="50" width="50" src="https://raw.githubusercontent.com/ThiruvarankanM/SVG_images/main/langchain.svg" alt="LangChain"/>  
-<img height="50" width="50" src="https://raw.githubusercontent.com/ThiruvarankanM/SVG_images/main/langgraph.svg" alt="LangGraph"/>  
-<img height="50" width="50" src="https://raw.githubusercontent.com/ThiruvarankanM/SVG_images/main/crewai.svg" alt="CrewAI"/>  
+<img height="50" width="50" src="https://raw.githubusercontent.com/ThiruvarankanM/SVG_images/refs/heads/main/langchain-icon-white-seeklogo.svg" alt="LangChain White Logo" />
+<img height="50" width="50" src="https://raw.githubusercontent.com/ThiruvarankanM/SVG_images/refs/heads/main/langgraph-color.svg" alt="LangGraph" />
+<img height="50" width="50" src="https://raw.githubusercontent.com/ThiruvarankanM/SVG_images/refs/heads/main/crewai-color.svg" alt="CrewAI"/>  
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"/>
 
 </td>
