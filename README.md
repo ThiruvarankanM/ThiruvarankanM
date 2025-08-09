@@ -14,10 +14,10 @@
 <tr>
 <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; color: white;">
   
-### 🎯 About My Journey
-🎯 Chess strategist by mind | 🎨 Creative designer by heart  
-🏆 Level 2 Fiverr seller with 100+ orders & 80+ five-star reviews  
-🎬 YouTube content creator | 📐 Professional graphic & flyer designer
+### 🎯 About My Journey  
+♟️ Strategic Chess Enthusiast | 🎨 Passionate Creative Designer  
+🏆 Level 2 Fiverr Seller with 100+ Completed Orders & 80+ Five-Star Reviews  
+🎬 YouTube Content Creator | 📐 Skilled Graphic & Flyer Designer  
 
 </td>
 </tr>
