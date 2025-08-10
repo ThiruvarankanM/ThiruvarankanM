@@ -39,7 +39,7 @@
 **Electrical Engineering Student**  
 @ University of Moratuwa 🎓
 
-**Mission:** *Bridging innovative research with practical applications using Python and embedded systems*
+**Mission:** *Advancing cutting-edge AI, computer vision, robotics, and automation technologies to create practical, real-world solutions and share knowledge through impactful digital content.*
 
 </td>
 <td width="50%" align="center">
