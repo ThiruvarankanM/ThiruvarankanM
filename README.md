@@ -15,9 +15,9 @@
 <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; color: white;">
   
 ### 🎯 About My Journey  
-♟️ Strategic Chess Enthusiast | 🎨 Passionate Creative Designer  
-🏆 Level 2 Fiverr Seller with 100+ Completed Orders & 80+ Five-Star Reviews  
-🎬 YouTube Content Creator | 📐 Skilled Graphic & Flyer Designer  
+🤖 AI & Computer Vision Enthusiast | 🎨 Skilled Graphic & Flyer Designer
+🏆 Level 2 Fiverr Seller with 100+ Completed Orders & 80+ Five-Star Reviews
+🎬 YouTube Content Creator | ♟️ Strategic Chess Enthusiast 
 
 </td>
 </tr>
