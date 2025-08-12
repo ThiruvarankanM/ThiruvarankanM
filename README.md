@@ -16,8 +16,8 @@
   
 ### 🎯 About My Journey  
 🤖 AI & Computer Vision Enthusiast | 🎨 Skilled Graphic & Flyer Designer 
-🎬 YouTube Content Creator | ♟️ Strategic Chess Enthusiast
 🏆 Level 2 Fiverr Seller with 100+ Completed Orders & 80+ Five-Star Reviews  
+🎬 YouTube Content Creator | ♟️ Strategic Chess Enthusiast
 
 
 
