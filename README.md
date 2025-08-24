@@ -221,7 +221,7 @@
 </p>
 
 <!-- Thank You Message -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!+⭐;Let's+build+the+future+together!+🚀" alt="Thank You Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=50&lines=Thanks+for+visiting!+⭐" alt="Thank You Animation" />
 
 <!-- Animated Footer Wave -->
 <img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=&fontSize=0"/>
