@@ -1,229 +1,68 @@
-<div align="center">
+<p><a href="https://www.thiruvarankanm.work">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/hero-mobile.svg">
+    <img src="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/hero.svg" width="100%" alt="Thiruvarankan Mathurakaran, Associate AI Engineer at Jaseci Labs. I build AI agents that write and ship real software, and the products people use every day.">
+  </picture>
+</a></p>
 
-<!-- Animated Wave Header -->
-<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Innovation%20Meets%20Creativity&descAlignY=55&descSize=18"/>
+I'm an **Associate AI Engineer at [Jaseci Labs](https://www.jaseci.org)** and an Electrical Engineering student at the University of Moratuwa. At Jaseci I work on **JacHammer**, an AI app builder, **JacCoder**, the coding agent behind it, and the **Jac compiler** under both. Since January 2026 I've also built client products with [Nexacode AI](https://nexacodeai.org): a WhatsApp assistant for a clinic, a portal for a tuition school and a clinic booking platform.
 
-<!-- Clean Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there!+I'm+Thiruvarankan+%F0%9F%91%8B;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/stats-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/stats-dark.svg">
+  <img src="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/stats-light.svg" width="100%" alt="129 merged pull requests at Jaseci Labs. 3 live products. 100+ Fiverr orders since 2022. 3.50 CGPA in Electrical Engineering at Moratuwa.">
+</picture>
 
-<!-- Professional Separator Line with Animation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Selected work
 
-</div>
+<p><a href="https://www.thiruvarankanm.work/work/jachammer"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/work-jachammer-mobile.svg"><img src="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/work-jachammer.svg" width="100%" alt="JacHammer, Jaseci Labs, 2026. An AI app builder: describe an app in chat, an agent builds it in Jac, and it runs in a live preview you can deploy."></picture></a></p>
+<p><a href="https://www.thiruvarankanm.work/work/seri-cakra-portal"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/work-seri-cakra-portal-mobile.svg"><img src="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/work-seri-cakra-portal.svg" width="50%" alt="Seri Cakra Tuition Portal, Nexacode AI, 2026."></picture></a><a href="https://www.thiruvarankanm.work/work/entrust-clinic"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/work-entrust-clinic-mobile.svg"><img src="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/work-entrust-clinic.svg" width="50%" alt="Entrust Clinic on WhatsApp, Nexacode AI, 2026."></picture></a></p>
+<p><a href="https://www.thiruvarankanm.work/work/jaccoder"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/work-jaccoder-mobile.svg"><img src="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/work-jaccoder.svg" width="50%" alt="JacCoder, Jaseci Labs, 2026."></picture></a><a href="https://www.thiruvarankanm.work/work/docpilot"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/work-docpilot-mobile.svg"><img src="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/work-docpilot.svg" width="50%" alt="Docpilot, Nexacode AI, 2026."></picture></a></p>
 
-<!-- Fun Facts in Styled Box -->
-<div align="center">
-<table>
-<tr>
-<td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; color: white;">
-  
-### 🎯 About My Journey  
-🤖 AI & Computer Vision Enthusiast | 🎨 Skilled Graphic & Flyer Designer 
-🏆 Level 2 Fiverr Seller with 100+ Completed Orders & 80+ Five-Star Reviews  
-🎬 YouTube Content Creator | ♟️ Strategic Chess Enthusiast
+Every card opens its case study on [thiruvarankanm.work](https://www.thiruvarankanm.work).
 
+## Open source
 
+129 merged pull requests across five [Jaseci Labs](https://github.com/jaseci-labs) repos. A few I like:
 
-</td>
-</tr>
-</table>
-</div>
+- [`jac#5066`](https://github.com/jaseci-labs/jac/pull/5066) Type checker: validate TypeVar assignment and constraints
+- [`jac#4625`](https://github.com/jaseci-labs/jac/pull/4625) Comprehensive enum type checking support
+- [`jac#5014`](https://github.com/jaseci-labs/jac/pull/5014) Report errors from `.impl.jac` files in `jac check` and `jac run`
+- [`jac#7474`](https://github.com/jaseci-labs/jac/pull/7474) An `sv` import in a `cl {}` block silently broke client bundling
+- [`jac-vscode#95`](https://github.com/jaseci-labs/jac-vscode/pull/95) Support the new Zig-based jac binary install
+- [`jac-vscode#53`](https://github.com/jaseci-labs/jac-vscode/pull/53) Faster activation and subprocess-free environment detection
+
+## Hello, in Jac
+
+The same intro as a Jac program. It passes `jac check`, and the terminal shows its real output.
+
+<a href="https://github.com/jaseci-labs/jaseci"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/jac-mobile.svg"><img src="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/jac.svg" width="100%" alt="A Jac program called thiru.jac. It defines an Engineer node and an Intro walker. jac check prints: thiru.jac ok. jac run prints: Hi, I'm Thiru, AI Engineer at Jaseci Labs, then JacHammer, JacCoder and the Jac compiler."></picture></a>
+
+## Also built
+
+| Project | What it does |
+| --- | --- |
+| [**SafeBase**](https://github.com/ThiruvarankanM/SafeBase)<br><sub>Go · MCP · PostgreSQL</sub> | A database proxy and MCP server between your AI agents and the database. It blocks destructive queries and gives Slack 60 seconds to cancel risky ones. |
+| [**OpenDownloader**](https://github.com/ThiruvarankanM/OpenDownloader)<br><sub>Express · Playwright · yt-dlp</sub> | A self-hosted downloader for YouTube, Instagram, TikTok, Google Drive and more. |
+| [**Maze Solver Robot**](https://github.com/ThiruvarankanM/Maze-Solver-Robot)<br><sub>Arduino Mega · C++ · PID</sub> | An autonomous robot for the EE4360 Maze Solver Challenge 2026. Flood fill on the maze, PID line following over the bridge. |
+| [**Terminal Vibes**](https://marketplace.visualstudio.com/items?itemName=DevVibes.terminal-vibes)<br><sub>TypeScript · VS Code API</sub> | A VS Code extension that plays a sound when your terminal errors, tests pass or a build fails. |
+| [**AI Smart Glove**](https://github.com/ThiruvarankanM/AI-Powered-Smart-Glove-for-Safety-Monitoring-and-Control-in-Workspaces)<br><sub>LabVIEW · NI DAQ · Arduino</sub> | A safety glove that senses gas, heat, overloads and falls, then emails emergency contacts. |
+| [**Helmet & Plate Detection**](https://github.com/ThiruvarankanM/AI-Based-Helmet-Plate-Recognition)<br><sub>YOLOv12 · LangChain · Gemini</sub> | YOLOv12 finds riders without helmets in traffic video, and Gemini reads their number plates. |
+| [**RealWaste Classifier**](https://github.com/ThiruvarankanM/RealWaste-CNN-Classfication)<br><sub>PyTorch · MobileNetV2</sub> | Waste photo classification. MobileNetV2 transfer learning reached 76.56%, against 71.45% for a custom CNN. |
+
+## Toolkit
+
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/toolkit-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/toolkit-dark.svg">
+  <img src="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/toolkit-light.svg" width="100%" alt="AI and agents: Claude API, tool use and MCP, LangGraph and LangChain, llama.cpp, RAG, evals. Languages: Jac, TypeScript, Python, Go, C++, Java. Front end: React, Next.js, Tailwind CSS, Radix and shadcn, Motion, VS Code extensions. Back end and data: FastAPI, Node.js and Express, PostgreSQL, Supabase, Redis, Docker. Messaging and payments: Twilio WhatsApp, Meta Cloud API, Resend, Paddle, PayHere. Hardware: Arduino, PlatformIO, PID control, NI DAQ and LabVIEW, sensors.">
+</picture>
 
 <br>
+<br>
 
-<!-- About Me Section with Better Layout -->
-<div align="center">
+<a href="mailto:thiruvarankanm07@gmail.com"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/contact-mobile.svg"><img src="https://raw.githubusercontent.com/ThiruvarankanM/ThiruvarankanM/main/assets/contact.svg" width="100%" alt="Have something to build? Email thiruvarankanm07@gmail.com"></picture></a>
 
-<table>
-<tr>
-<td width="50%" align="center">
+**[Portfolio](https://www.thiruvarankanm.work)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/thiruvarankanm)** &nbsp;·&nbsp; **[Email](mailto:thiruvarankanm07@gmail.com)** &nbsp;·&nbsp; **[Fiverr](https://www.fiverr.com/thiru_07/edit-your-videoes-professionally-in-filmora)**
 
-## 🚀 About Me
-
-**Electrical Engineering Student**  
-@ University of Moratuwa 🎓
-
-**Mission:** *Advancing cutting-edge AI, computer vision, robotics, and automation technologies to create practical, real-world solutions and share knowledge through impactful digital content.*
-
-</td>
-<td width="50%" align="center">
-
-### 🎯 Passionate About
-🤖 Developing scalable AI solutions  
-👁️ Computer vision applications  
-🔧 Robotics and embedded systems  
-📊 Transforming research into real-world impact
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Animated Section Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Skills Section with Better Organization -->
-<div align="center">
-
-## 💻 My Technical Expertise
-
-<!-- Core Programming & AI -->
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🔥 Core Programming
-<img height="50" width="50" src="https://skillicons.dev/icons?i=python" alt="Python"/> 
-<img height="50" width="50" src="https://skillicons.dev/icons?i=cpp" alt="C++"/> 
-<img height="50" width="50" src="https://skillicons.dev/icons?i=java" alt="Java"/> 
-<img height="50" width="50" src="https://skillicons.dev/icons?i=matlab" alt="MATLAB"/>
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 AI/ML & Vision
-<img height="50" width="50" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/> 
-<img height="50" width="50" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/> 
-<img height="50" width="50" src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"/> 
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"/>
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 Advanced AI Tools
-<img height="50" width="50" src="https://raw.githubusercontent.com/ThiruvarankanM/SVG_images/refs/heads/main/langchain-icon-white-seeklogo.svg" alt="LangChain White Logo" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/ThiruvarankanM/SVG_images/refs/heads/main/langgraph-color.svg" alt="LangGraph" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/ThiruvarankanM/SVG_images/refs/heads/main/crewai-color.svg" alt="CrewAI"/>  
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"/>
-
-</td>
-</tr>
-</table>
-
-<!-- Backend & Tools -->
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🗄️ Database & Backend
-<img height="50" width="50" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>  
-<img height="50" width="50" src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/>  
-<img height="50" width="50" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/>  
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit"/>
-
-</td>
-<td align="center" width="33%">
-
-### 🛠️ Development Tools
-<img height="50" width="50" src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>  
-<img height="50" width="50" src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse"/>  
-<img height="50" width="50" src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm"/>  
-<img height="50" width="50" src="https://skillicons.dev/icons?i=git" alt="Git"/>
-
-</td>
-<td align="center" width="33%">
-
-### 🎨 Creative & Hardware
-<img height="50" width="50" src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop"/>  
-<img height="50" width="50" src="https://skillicons.dev/icons?i=figma" alt="Figma"/>  
-<img height="50" width="50" src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/>  
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Animated Section Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- GitHub Stats - Only Real Data -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<table>
-<tr>
-<td align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiruvarankanM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-</td>
-<td align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruvarankanM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</td>
-</tr>
-</table>
-
-<!-- GitHub Streak - Real Data Only -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ThiruvarankanM&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiruvarankanM&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true"/>
-</p>
-
-</div>
-
-<!-- Animated Section Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Connect Section -->
-<div align="center">
-
-## 🌐 Let's Connect & Collaborate
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiruvarankanm07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/nm_thiru07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/share/1aQcfVLqEC/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.fiverr.com/thiru_07/edit-your-videoes-professionally-in-filmora" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-%2300b22d.svg?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
-</p>
-
-<!-- Professional Services Box -->
-<table align="center">
-<tr>
-<td align="center" style="border-radius: 10px; border: 2px solid #00D9FF; padding: 15px;">
-
-### 💼 Professional Services
-**🎨 Graphic Design** • **🎬 Video Editing** • **📊 Data Analysis**  
-**🤖 AI Solutions** • **🔧 IoT Projects** • **📱 App Development**
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Animated Section Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Footer Section -->
-<div align="center">
-
-<!-- Animated Footer Quote -->
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=70&lines=💭+Innovation+distinguishes+between+a+leader+and+a+follower;🚀+Building+tomorrow's+solutions+today" alt="Footer Quote Animation" />
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThiruvarankanM&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="Profile views" />
-</p>
-
-<!-- Thank You Message -->
-<h3 align="center" style="color: #00D9FF;">Thanks for visiting! ⭐</h3>
-
-<!-- Animated Footer Wave -->
-<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=&fontSize=0"/>
-
-</div>
+<sub>Off the screen I edit videos on Fiverr (Level 2, since 2022), lead the media team at the Tamil Literary Association and play in provincial chess championships.</sub>
