@@ -21,17 +21,6 @@ I'm an **Associate AI Engineer at [Jaseci Labs](https://www.jaseci.org)** and an
 
 Every card opens its case study on [thiruvarankanm.work](https://www.thiruvarankanm.work).
 
-## Open source
-
-129 merged pull requests across five [Jaseci Labs](https://github.com/jaseci-labs) repos. A few I like:
-
-- [`jac#5066`](https://github.com/jaseci-labs/jac/pull/5066) Type checker: validate TypeVar assignment and constraints
-- [`jac#4625`](https://github.com/jaseci-labs/jac/pull/4625) Comprehensive enum type checking support
-- [`jac#5014`](https://github.com/jaseci-labs/jac/pull/5014) Report errors from `.impl.jac` files in `jac check` and `jac run`
-- [`jac#7474`](https://github.com/jaseci-labs/jac/pull/7474) An `sv` import in a `cl {}` block silently broke client bundling
-- [`jac-vscode#95`](https://github.com/jaseci-labs/jac-vscode/pull/95) Support the new Zig-based jac binary install
-- [`jac-vscode#53`](https://github.com/jaseci-labs/jac-vscode/pull/53) Faster activation and subprocess-free environment detection
-
 ## Hello, in Jac
 
 The same intro as a Jac program. It passes `jac check`, and the terminal shows its real output.
